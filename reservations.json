@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "name": "Marouan Bouchettoy",
+    "email": "uanemaro216@gmail.com",
+    "phone": "0696554077",
+    "date": "2025-04-19",
+    "service": "amplification",
+    "message": "",
+    "vuOrNot": true
+  },
+  {
+    "id": 3,
+    "name": "Marouan Bouchettoy",
+    "email": "uanemaro216@gmail.com",
+    "phone": "0696554077",
+    "date": "2025-04-19",
+    "service": "suivi",
+    "message": "nhh",
+    "vuOrNot": false
+  }
+]
